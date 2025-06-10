@@ -9,7 +9,7 @@ Material das aulas de Programação Orientada a Objetos com Python para do **NEx
 | Aula                                                   | Material |
 | ------------------------------------------------------ | -------- |
 | Aula 01 - Introdução à Programação Orientada a Objetos | [Slides](https://docs.google.com/presentation/d/1q45dzeqU6dBF9qvJTsX7AdS0sYLXhkE-sQQvzv1dW8o/edit?usp=sharing)|
-| Aula 02 - Classes e Objetos                            | |
+| Aula 02 - Classes e Objetos                            | [Slides](https://docs.google.com/presentation/d/1Z2Vxl8oyXhR8cPNt1kg7UvpU0MtDqA4-QjDvRm6mufg/edit?usp=sharing) - [Conteúdo](/aula02/README.md) |
 | Aula 03 - Abstração e Encapsulamento                   | |
 | Aula 04 - Herança                                      | |
 | Aula 05 - Polimorfismo                                 | |
