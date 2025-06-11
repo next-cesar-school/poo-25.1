@@ -10,7 +10,7 @@ Material das aulas de Programação Orientada a Objetos com Python para do **NEx
 | ------------------------------------------------------ | -------- |
 | Aula 01 - Introdução à Programação Orientada a Objetos | [Slides](https://docs.google.com/presentation/d/1q45dzeqU6dBF9qvJTsX7AdS0sYLXhkE-sQQvzv1dW8o/edit?usp=sharing)|
 | Aula 02 - Classes e Objetos                            | [Slides](https://docs.google.com/presentation/d/1Z2Vxl8oyXhR8cPNt1kg7UvpU0MtDqA4-QjDvRm6mufg/edit?usp=sharing) - [Conteúdo](/aula02/README.md) - [Práticas](/aula02/praticas/) - [Exercícios Resolvidos](/aula02/exercicios/) |
-| Aula 03 - Abstração e Encapsulamento                   | |
+| Aula 03 - Abstração e Encapsulamento                   | [Slides](https://docs.google.com/presentation/d/1rDAuxnq-DU1CebK91HuwwQidVieeQplHF7hqYHMeaZ8/edit?usp=sharing) - [Conteúdo](/aula03/README.md) |
 | Aula 04 - Herança                                      | |
 | Aula 05 - Polimorfismo                                 | |
 | Aula 06 - Dunder Methods                               | |
