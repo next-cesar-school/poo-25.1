@@ -20,11 +20,14 @@ Material das aulas de Programação Orientada a Objetos com Python para do **NEx
 | Aula 10 - Classes Abstratas e Decoratos                | |
 | Aula 11 - Testes Unitários                             | |
 | Aula 12 - Projeto                                      | |
+<!--
 | Aula de Revisão                                        | |
+-->
 
 ## Projetos
 
 - [FORJA Contato](/forja_contato/)
+- [NPS](/nps/)
 <!--
 - [Endereço](/forja_contato/endereco/)
 - [CPF](/forja_contato/cpf/)
