@@ -5,6 +5,7 @@ class Carro:
         self.cor = cor
         self.modelo = modelo
         self.combustivel = combustivel
+
 byd_song_pro = Carro(4, 'prata', 'suv', 'hibrido')
 uno = Carro(4, 'branco', 'hatch', 'gasolina')
 marea = Carro(4, 'bege', 'sedan', 'gasolina')
