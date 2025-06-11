@@ -22,10 +22,10 @@ Material das aulas de Programação Orientada a Objetos com Python para do **NEx
 | Aula 12 - Projeto                                      | |
 | Aula de Revisão                                        | |
 
-<!--
 ## Projetos
 
 - [FORJA Contato](/forja_contato/)
+<!--
 - [Endereço](/forja_contato/endereco/)
 - [CPF](/forja_contato/cpf/)
 
