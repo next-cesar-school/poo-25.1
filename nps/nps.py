@@ -50,3 +50,4 @@ if __name__ == '__main__':
 
     print(avaliacao1.calcular_nps())
     avaliacao1.avaliar_classificacao()
+    
