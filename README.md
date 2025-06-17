@@ -13,7 +13,7 @@ Material das aulas de Programação Orientada a Objetos com Python para do **NEx
 | Aula 03 - Abstração e Encapsulamento                   | [Slides](https://docs.google.com/presentation/d/1rDAuxnq-DU1CebK91HuwwQidVieeQplHF7hqYHMeaZ8/edit?usp=sharing) - [Conteúdo](/aula03/README.md) - [Práticas](/aula03/praticas/) - [Exercícios Resolvidos](/aula03/exercicios/) |
 | Aula 04 - Herança                                      | [Conteúdo](/aula04/README.md) - [Práticas](/aula04/praticas/) - [Exercícios Resolvidos](/aula04/exercicios/)|
 | Aula 05 - Polimorfismo                     | [Conteúdo](/aula05/README.md) - [Práticas](/aula05/praticas/) - [Exercícios Resolvidos](/aula05/exercicios/)|
-| Aula 06 - Dunder Methods                   | |
+| Aula 06 - Dunder Methods                   | [Conteúdo](/aula06/README.md) |
 | Aula 07 - Typing                           | |
 | Aula 08 - Documentação                     | |
 | Aula 09 - Tratamento de Exceções em POO    | |
@@ -31,6 +31,7 @@ Material das aulas de Programação Orientada a Objetos com Python para do **NEx
 <!--
 - [Endereço](/forja_contato/endereco/)
 - [CPF](/forja_contato/cpf/)
+-->
 
 ## 📚 Livros
 
@@ -49,4 +50,3 @@ Material das aulas de Programação Orientada a Objetos com Python para do **NEx
 - **Refatoração**, _Martin Fowler_ (2011)
 
     Um manual prático que ensina a melhorar o design de código existente por meio de técnicas de refatoração testadas em projetos reais, explicando quando e por que aplicá-las para evoluir sistemas sem quebrar funcionalidades (tem uma edição revisada, com exemplos mais modernos).
--->
