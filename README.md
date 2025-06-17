@@ -31,6 +31,7 @@ Material das aulas de Programação Orientada a Objetos com Python para do **NEx
 <!--
 - [Endereço](/forja_contato/endereco/)
 - [CPF](/forja_contato/cpf/)
+-->
 
 ## 📚 Livros
 
@@ -49,4 +50,3 @@ Material das aulas de Programação Orientada a Objetos com Python para do **NEx
 - **Refatoração**, _Martin Fowler_ (2011)
 
     Um manual prático que ensina a melhorar o design de código existente por meio de técnicas de refatoração testadas em projetos reais, explicando quando e por que aplicá-las para evoluir sistemas sem quebrar funcionalidades (tem uma edição revisada, com exemplos mais modernos).
--->
