@@ -14,7 +14,7 @@ Material das aulas de Programação Orientada a Objetos com Python para do **NEx
 | Aula 04 - Herança                                      | [Conteúdo](/aula04/README.md) - [Práticas](/aula04/praticas/) - [Exercícios Resolvidos](/aula04/exercicios/)|
 | Aula 05 - Polimorfismo                     | [Conteúdo](/aula05/README.md) - [Práticas](/aula05/praticas/) - [Exercícios Resolvidos](/aula05/exercicios/)|
 | Aula 06 - Dunder Methods                   | [Conteúdo](/aula06/README.md) - [Práticas](/aula06/praticas/) - [Exercícios Resolvidos](/aula06/exercicios/)|
-| Aula 07 - Typing                           | [Conteúdo](/aula07/README.md)|
+| Aula 07 - Typing                           | [Conteúdo](/aula07/README.md) - [Práticas](/aula07/praticas/)|
 | Aula 08 - Documentação                     | |
 | Aula 09 - Tratamento de Exceções em POO    | |
 | Aula 10 - Classes Abstratas e Decoratos    | |
