@@ -1,4 +1,4 @@
-# NExT 2024.2 | POO
+# NExT | **Programação Orientada a Objetos** com Python
 
 ![CESAR School](/cesar_school.png)
 
