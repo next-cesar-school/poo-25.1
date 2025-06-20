@@ -28,6 +28,7 @@ Material das aulas de Programação Orientada a Objetos com Python para do **NEx
 
 - [FORJA Contato](/forja_contato/)
 - [NPS](/nps/)
+- [Endereço](/projeto_endereco/)
 <!--
 - [Endereço](/forja_contato/endereco/)
 - [CPF](/forja_contato/cpf/)
