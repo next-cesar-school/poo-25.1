@@ -16,7 +16,7 @@ Material das aulas de Programação Orientada a Objetos com Python para do **NEx
 | Aula 06 - Dunder Methods                   | [Conteúdo](/aula06/README.md) - [Práticas](/aula06/praticas/) - [Exercícios Resolvidos](/aula06/exercicios/)|
 | Aula 07 - Typing                           | [Conteúdo](/aula07/README.md) - [Práticas](/aula07/praticas/)|
 | Aula 08 - Documentação                     | [Conteúdo](/aula08/README.md) - [Práticas](/aula08/praticas/)|
-| Aula 09 - Tratamento de Exceções em POO    | [Conteúdo](/aula09/README.md) |
+| Aula 09 - Tratamento de Exceções em POO    | [Conteúdo](/aula09/README.md) - [Práticas](/aula09/praticas/)|
 | Aula 10 - Classes Abstratas e Decoratos    | |
 | Aula 11 - Testes Unitários                 | |
 | Aula 12 - Projeto                          | |
