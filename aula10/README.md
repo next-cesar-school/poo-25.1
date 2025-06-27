@@ -229,7 +229,7 @@ Crie um decorator que mede o tempo de execução de uma função e imprime o res
 - O nome da função deve ser exibido
   - É possível acessar o nome da função com o dunder methods `__name__`:
     - `func.__name__` acessa o nome da função.
-- Para testar, use as funções disponíveis no arquivo [`começa_maiusculo.py`](/aula10/praticas/comeca_maiusculo.py). Neste arquivos, todas as funções fazem a mesma coisa, mas usando estratégias diferentes.
+- Para testar, use as funções disponíveis no arquivo [`começa_maiusculo.py`](/aula10/exercicios/comeca_maiusculo.py). Neste arquivos, todas as funções fazem a mesma coisa, mas usando estratégias diferentes.
 
 #### Uso
 
