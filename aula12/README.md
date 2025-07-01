@@ -205,6 +205,10 @@ Crie um sistema que analise os dados contidos no arquivo [lista_clientes.csv](/a
   - Não negligencie o poder de uma boa documentação;
   - Explique de forma técnica a abordagem adotada para desenvolver este sistema no `README.md`
 
+## 📤 Entrega da Atividade
+
+Realize o envio do link público do repositório do **Projeto 8: Análise de Dados** no formulário disponível [aqui](https://forms.gle/asyy1JPMfR92Jfzv5).
+
 ## Achou pouco?
 
 Segue uma lista com dezenas de ideias de apps que você pode desenvolver para continuar treinando: [App Ideas Collection](https://github.com/florinpop17/app-ideas)
@@ -212,3 +216,5 @@ Segue uma lista com dezenas de ideias de apps que você pode desenvolver para co
 ![This Party's Over](/aula12/xepy.gif)
 
 ### Cabô 🥳
+
+_🤳P.S.: link para nossa fotos aqui (em breve!)._
