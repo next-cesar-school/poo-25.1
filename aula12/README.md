@@ -130,31 +130,34 @@ Crie um sistema que analise os dados contidos no arquivo [lista_clientes.csv](/a
 
 2. Arquivo de saída (`.json`)
 
+    O arquivo de saída será em formato '.json' e deve conter uma lista de usuários, organizados por **ordem alfabética**, seguindo o modelo a seguir:
+
     ```json
     {
-      "users":[
-        {
-          "nome_completo": "André de Bifur Gomes Ribeiro",
-          "primeiro_nome": "André",
-          "segundo_nome": "de Bifur",
-          "genero": "male",
-          "email": "andrebifur@testmail.org",
-          "celular": "81 952127281",
-          "interesse": "Desenvolvimento de Jogos Digitais",
-          "cpf": "94097729828",
-          "bairro": "Petrópolis",
-          "cidade": "Porto Alegre",
-          "estado": "RS",
-          "observacoes": "CPF Inválido"
-        },
-        ...
-      ]
+      "users":
+        [
+          {
+            "nome_completo": "André de Bifur Gomes Ribeiro",
+            "primeiro_nome": "André",
+            "segundo_nome": "de Bifur",
+            "genero": "male",
+            "email": "andrebifur@testmail.org",
+            "celular": "51 952127281",
+            "interesse": "Desenvolvimento de Jogos Digitais",
+            "cpf": "94097729828",
+            "bairro": "Petrópolis",
+            "cidade": "Porto Alegre",
+            "estado": "RS",
+            "observacoes": "CPF Inválido"
+          },
+          ...
+        ]
     }
     ```
 
 3. Relatório de saída
 
-    Além do arquivo de saída, exponha também uma análise dos dados processados, informando:
+    Além do arquivo de saída, exiba no console uma análise dos dados processados, informando:
 
     - Distribuição de gênero: % de homens e mulheres
     - Distribuição geográfica: % por região
