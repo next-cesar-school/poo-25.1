@@ -19,7 +19,7 @@ Material das aulas de Programação Orientada a Objetos com Python para do **NEx
 | Aula 09 - Tratamento de Exceções em POO    | [Conteúdo](/aula09/README.md) - [Práticas](/aula09/praticas/)|
 | Aula 10 - Classes Abstratas e Decoratos    | [Conteúdo](/aula10/README.md) - [Práticas](/aula10/praticas/) - [Exercícios Resolvidos](/aula10/exercicios/)|
 | Aula 11 - Testes Unitários                 | [Conteúdo](/aula11/README.md) - [Práticas](/aula11/praticas/) - [Exercícios Resolvidos](/aula11/exercicios/)|
-| Aula 12 - Portifólio de Projetos           | |
+| Aula 12 - Portifólio de Projetos           | [Conteúdo](/aula12/README.md) |
 <!--
 | Aula de Revisão                            | |
 -->
