@@ -57,7 +57,6 @@ class SistemaGerenciamentoTarefas:
                   e inclui seu 'id', 'descricao' e 'concluida'.
         """
         lista_completa = []
-        print(type(self._tarefas))
         for id_tarefa, detalhes in self._tarefas.items():
             lista_completa.append({
                 'id': id_tarefa,
@@ -101,3 +100,6 @@ class SistemaGerenciamentoTarefas:
         if id_tarefa not in self._tarefas:
             raise ValueError(f"Tarefa com ID {id_tarefa} não encontrada.")
         del self._tarefas[id_tarefa]
+
+if __name__ == '__main__':
+    ...
