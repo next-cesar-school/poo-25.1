@@ -217,4 +217,4 @@ Segue uma lista com dezenas de ideias de apps que você pode desenvolver para co
 
 ### Cabô 🥳
 
-_🤳P.S.: link para nossa fotos aqui (em breve!)._
+_🤳P.S.: link para nossa fotos [aqui](/aula12/next-2025.1-1.png) e [aqui](/aula12/next-2025.1-2.png)._
